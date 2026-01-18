@@ -1,0 +1,9 @@
+id,date,feedback_text,sentiment,confidence,theme,priority,action_item
+1,2026-01-05,The new AI auditing tool is saving us hours of manual work. Great job!,Positive,0.9,Efficiency,High,Implement this tool across the team
+2,2026-01-06,The dashboard is a bit slow when loading large PDFs. Needs optimization.,Negative,0.8,Performance,High,Optimize for faster PDF load times
+3,2026-01-07,I am confused by the new login process. It takes too many steps.,Negative,0.9,process,Low,Simplify login process
+4,2026-01-08,Excellent support from the Digital Accelerator team on the Azure setup.,Positive,0.9,Support,High,Leverage Digital Accelerator team for future Azure projects
+5,2026-01-09,The documentation for the Python scripts is missing some key details.,Negative,0.8,Documentation,Medium,Provide additional context and examples
+6,2026-01-10,Pricing for the new service is too high compared to last year.,Negative,0.75,Price,Medium,Re-evaluate pricing strategy
+7,2026-01-11,The Power BI visualization is very clear and easy to understand.,Positive,0.9,Clarity,High,Make visualizations even clearer
+8,2026-01-12,We need more research on Generative AI automation for the legal team.,Negative,0.4,Research,Medium,Conduct further research on Generative AI automation
