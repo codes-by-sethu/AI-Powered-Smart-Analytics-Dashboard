@@ -1,0 +1,13 @@
+# Data Processing
+pandas>=2.1.0
+numpy<2.0.0
+
+# AI & LLM Inference
+ollama>=0.1.6
+
+# Visualization & Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Environment & Utilities
+python-dotenv>=1.0.1
