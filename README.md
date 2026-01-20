@@ -1,7 +1,3 @@
-Here is a **pure technical version** — concise, engineer-focused, no storytelling.
-
----
-
 ## 📊 AI-Powered Smart Analytics Dashboard (Technical Overview)
 
 ### System Purpose
