@@ -107,3 +107,6 @@ ollama pull llama3.2
 python classifier.py
 streamlit run dashboard.py
 ```
+
+<img width="1920" height="2255" alt="image" src="https://github.com/user-attachments/assets/eed85e3a-5e1e-45cb-8db4-cfebacab721c" />
+
